@@ -9,3 +9,47 @@
 "testRectangleOutput","3
 8
 4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3):  Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-06-27 11:29:03"
+"testCircleOutput","1
+5","Area of the circle: 78.54","Which shape's area would you like to calculate? Type 'circle', 'triangle', or 'rectangle': Invalid shape entered. Please type 'circle', 'triangle', or 'rectangle'.","FAIL","2025-07-01 17:08:07"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","Which shape's area would you like to calculate? Type 'circle', 'triangle', or 'rectangle': Invalid shape entered. Please type 'circle', 'triangle', or 'rectangle'.","FAIL","2025-07-01 17:08:07"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:08:07"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:08:07"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:08:07"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","Which shape's area would you like to calculate? Type 'circle', 'triangle', or 'rectangle': Invalid shape entered. Please type 'circle', 'triangle', or 'rectangle'.","FAIL","2025-07-01 17:08:07"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the radius: Area of the circle: 78.54","PASS","2025-07-01 17:10:55"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:10:55"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:10:55"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:10:55"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:10:55"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:10:55"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the radius: Area of the circle: 78.54","PASS","2025-07-01 17:11:24"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:11:24"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:11:24"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:11:24"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:11:24"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:11:24"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the radius: Area of the circle: 78.54","PASS","2025-07-01 17:13:58"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-07-01 17:13:58"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-07-01 17:13:58"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-07-01 17:13:58"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-07-01 17:13:58"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3): Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-07-01 17:13:58"
